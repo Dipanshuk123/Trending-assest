@@ -1,0 +1,361 @@
+.t-span {
+  text-transform: uppercase;
+}
+.trending-assets-div {
+  position: absolute;
+  top: 232px;
+  left: 111px;
+  font-size: 16px;
+  letter-spacing: -0.01em;
+  line-height: 32px;
+  font-weight: 600;
+  color: #ecf0ff;
+  text-align: left;
+  display: inline-block;
+  width: 146px;
+  opacity: 0.9;
+}
+.rectangle-div,
+.vuesaxlinearactivity-icon {
+  position: absolute;
+  top: 240px;
+  left: 79px;
+  width: 16px;
+  height: 16px;
+}
+.rectangle-div {
+  top: 2704px;
+  left: 1477.04px;
+  background-color: #d9d9d9;
+  width: 40px;
+  height: 40px;
+}
+.vector-icon {
+  position: absolute;
+  height: 87.52%;
+  width: 99.57%;
+  top: 12.48%;
+  right: 0.09%;
+  bottom: 0;
+  left: 0.34%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.bitcoin-btc-div,
+.price-div,
+.tvl-div {
+  position: absolute;
+  line-height: 31px;
+  font-weight: 600;
+  display: inline-block;
+  opacity: 0.9;
+}
+.bitcoin-btc-div {
+  top: 121px;
+  left: 32px;
+  color: #737bae;
+  width: 231px;
+}
+.price-div,
+.tvl-div {
+  width: 241px;
+}
+.tvl-div {
+  top: 275px;
+  left: 27px;
+  text-transform: uppercase;
+}
+.price-div {
+  top: 200px;
+  left: 25px;
+}
+.opular-pairs-span {
+  text-transform: lowercase;
+}
+.popular-pairs-div {
+  position: absolute;
+  top: 358px;
+  left: 27px;
+  line-height: 31px;
+  font-weight: 600;
+  display: inline-block;
+  width: 241px;
+  opacity: 0.9;
+}
+.vector-icon1 {
+  position: absolute;
+  height: 25%;
+  width: 34.25%;
+  top: 0;
+  right: 32.75%;
+  bottom: 75%;
+  left: 33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.bitcoin-sv-bsv {
+  position: absolute;
+  top: 25px;
+  left: calc(50% - 24.55px);
+  width: 49.83px;
+  height: 49.84px;
+}
+.rectangle-div1,
+.rectangle-div2 {
+  position: absolute;
+  top: 160px;
+  left: 21px;
+  border-radius: 17px;
+  background-color: #14172b;
+  width: 242px;
+  height: 40px;
+}
+.rectangle-div2 {
+  top: 235px;
+  left: 25px;
+}
+.div {
+  top: 164.5px;
+  left: 21px;
+  font-size: 16px;
+  color: #ecf0ff;
+  width: 241px;
+}
+.div,
+.div1,
+.div2 {
+  position: absolute;
+  line-height: 31px;
+  font-weight: 600;
+  display: inline-block;
+  opacity: 0.9;
+}
+.div1 {
+  top: 164.5px;
+  left: 199.42px;
+  text-transform: uppercase;
+  color: #00ffa3;
+  text-align: left;
+  width: 62.58px;
+}
+.div2 {
+  top: 239.5px;
+  left: 25px;
+  font-size: 16px;
+  color: #ecf0ff;
+  width: 241px;
+}
+.frame-icon {
+  position: absolute;
+  top: 318px;
+  left: 85px;
+  width: 121.75px;
+  height: 40px;
+}
+.frame-div,
+.vector-icon3 {
+  position: absolute;
+  top: 322px;
+  left: 86px;
+  width: 292px;
+  height: 400px;
+  overflow: hidden;
+}
+.vector-icon3 {
+  height: 25%;
+  width: 34.25%;
+  top: -0.02%;
+  right: 32.75%;
+  bottom: 75.02%;
+  left: 33%;
+  max-width: 100%;
+  max-height: 100%;
+  display: none;
+}
+.bitcoin-sv-bsv1 {
+  position: absolute;
+  top: 48.44px;
+  left: calc(50% - 6.56px);
+  width: 0.42px;
+  height: 0.31px;
+}
+.div4 {
+  position: absolute;
+  top: 164.5px;
+  left: 199.42px;
+  line-height: 31px;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: #ff4d4d;
+  text-align: left;
+  display: inline-block;
+  width: 62.58px;
+  opacity: 0.9;
+}
+.frame-div1 {
+  position: absolute;
+  top: 322px;
+  left: 447px;
+  width: 292px;
+  height: 400px;
+  overflow: hidden;
+}
+.bitcoin-sv-bsv2 {
+  position: absolute;
+  top: 25px;
+  left: calc(50% - 24.55px);
+  width: 49.83px;
+  height: 49.84px;
+  display: none;
+}
+.frame-div2,
+.frame-div3 {
+  position: absolute;
+  top: 322px;
+  left: 808px;
+  width: 292px;
+  height: 400px;
+  overflow: hidden;
+}
+.frame-div3 {
+  left: 1169px;
+}
+.bitcoin-sv-bsv4 {
+  position: absolute;
+  top: 25px;
+  left: calc(50% - 24.55px);
+  width: 0;
+  height: 0;
+}
+.div13 {
+  position: absolute;
+  top: 164.5px;
+  left: 199.42px;
+  line-height: 31px;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: #ff4d4d;
+  text-align: right;
+  display: inline-block;
+  width: 62.58px;
+  opacity: 0.9;
+}
+.frame-div4,
+.vector-icon10 {
+  position: absolute;
+  top: 322px;
+  left: 1530px;
+  width: 292px;
+  height: 400px;
+  overflow: hidden;
+}
+.vector-icon10 {
+  height: 10.79%;
+  width: 5.24%;
+  top: 34.74%;
+  right: 66.18%;
+  bottom: 54.48%;
+  left: 28.58%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.bitcoin-sv-bsv5,
+.solana-sol-icon {
+  position: absolute;
+  top: 347px;
+  left: calc(50% - 383.5px);
+  width: 50px;
+  height: 50px;
+}
+.bitcoin-sv-bsv5 {
+  top: 649.08px;
+  left: calc(50% - 406.5px);
+  width: 22px;
+  height: 22px;
+}
+.ethereum-eth-icon {
+  position: absolute;
+  height: 2.37%;
+  width: 1.15%;
+  top: 70.01%;
+  right: 68.26%;
+  bottom: 27.62%;
+  left: 30.59%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.binance-coin-bnb,
+.group-icon {
+  position: absolute;
+  top: 649px;
+  left: calc(50% - 336.5px);
+  width: 22px;
+  height: 22px;
+}
+.group-icon {
+  left: calc(50% - 45.5px);
+  width: 92px;
+  height: 22.08px;
+}
+.ethereum-eth-icon1,
+.vector-icon11 {
+  position: absolute;
+  height: 10.79%;
+  width: 5.24%;
+  top: 34.74%;
+  right: 47.35%;
+  bottom: 54.48%;
+  left: 47.4%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.ethereum-eth-icon1 {
+  height: 5.39%;
+  width: 2.62%;
+  top: 37.43%;
+  right: 48.72%;
+  bottom: 57.17%;
+  left: 48.66%;
+}
+.binance-coin-bnb1 {
+  position: absolute;
+  top: 349px;
+  left: calc(50% + 336.5px);
+  width: 49.99px;
+  height: 50px;
+}
+.vector-icon12 {
+  position: absolute;
+  height: 10.79%;
+  width: 5.24%;
+  top: 34.3%;
+  right: 9.39%;
+  bottom: 54.91%;
+  left: 85.37%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.shiba-inu-shib {
+  position: absolute;
+  top: 343px;
+  left: calc(50% + 699.5px);
+  width: 50px;
+  height: 50px;
+}
+.p2p-markets-div {
+  position: relative;
+  background-color: #14172b;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 100%;
+  height: 927px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 12px;
+  color: #5a5f7d;
+  font-family: Tomorrow;
+}
